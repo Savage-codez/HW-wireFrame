@@ -1,0 +1,37 @@
+*{
+    outline: 1px dotted black;
+    text-align: center;
+}
+
+header {
+    padding: 20px;
+    margin-bottom: 10px;
+    margin-left: 150px;
+    margin-right: 150px;
+    color: #333;
+    background: #ccc;
+  }
+
+#nav {
+    padding: 20px;
+    margin: 5px 150px;
+    color: #333;
+    background: #ccc;
+}
+
+#section {
+    width: 45%;
+    height: 150px;
+    padding: 20px;
+    float: left;
+    
+}
+
+#aside {
+    width: 45%;
+    height: 150px;
+    padding: 20px;
+    float: left;
+    clear: both;
+    overflow: auto;
+}
